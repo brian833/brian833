@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hey there, I’m Brian.<br><br>I’m a curious coder, tech explorer, and always down to learn something new.  <br>Currently diving into:<br>- Data Analytics
+- Web Development
 
 
 ## 🌐 Socials:
